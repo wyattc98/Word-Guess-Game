@@ -1,0 +1,23 @@
+header {
+    width: 100%;
+    text-align: center;
+}
+
+header img {
+    display: inline-block;
+    margin: 0 auto;
+
+}
+
+.container {
+    font-family: 'Archivo Narrow', sans-serif;
+    position: relative;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.col {
+    height: 500px;
+    position: absolute;
+    border: 8px dotted white;
+}
